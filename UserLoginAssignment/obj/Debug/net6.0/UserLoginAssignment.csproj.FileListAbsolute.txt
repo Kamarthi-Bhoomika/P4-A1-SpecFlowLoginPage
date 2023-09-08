@@ -1,0 +1,11 @@
+D:\Mphasis\.net\Phase4\Day1\UserLoginAssignment\UserLoginAssignment\bin\Debug\net6.0\UserLoginAssignment.deps.json
+D:\Mphasis\.net\Phase4\Day1\UserLoginAssignment\UserLoginAssignment\bin\Debug\net6.0\UserLoginAssignment.dll
+D:\Mphasis\.net\Phase4\Day1\UserLoginAssignment\UserLoginAssignment\bin\Debug\net6.0\UserLoginAssignment.pdb
+D:\Mphasis\.net\Phase4\Day1\UserLoginAssignment\UserLoginAssignment\obj\Debug\net6.0\UserLoginAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\.net\Phase4\Day1\UserLoginAssignment\UserLoginAssignment\obj\Debug\net6.0\UserLoginAssignment.AssemblyInfoInputs.cache
+D:\Mphasis\.net\Phase4\Day1\UserLoginAssignment\UserLoginAssignment\obj\Debug\net6.0\UserLoginAssignment.AssemblyInfo.cs
+D:\Mphasis\.net\Phase4\Day1\UserLoginAssignment\UserLoginAssignment\obj\Debug\net6.0\UserLoginAssignment.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Phase4\Day1\UserLoginAssignment\UserLoginAssignment\obj\Debug\net6.0\UserLoginAssignment.dll
+D:\Mphasis\.net\Phase4\Day1\UserLoginAssignment\UserLoginAssignment\obj\Debug\net6.0\refint\UserLoginAssignment.dll
+D:\Mphasis\.net\Phase4\Day1\UserLoginAssignment\UserLoginAssignment\obj\Debug\net6.0\UserLoginAssignment.pdb
+D:\Mphasis\.net\Phase4\Day1\UserLoginAssignment\UserLoginAssignment\obj\Debug\net6.0\ref\UserLoginAssignment.dll

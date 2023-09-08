@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLoginAssignment", "UserLoginAssignment\UserLoginAssignment.csproj", "{A5F7BFC6-57EB-4D1B-A1D0-2A1463BFD27A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowUserLogin", "SpecFlowUserLogin\SpecFlowUserLogin.csproj", "{984E685B-3061-4023-930F-C3E634298851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5F7BFC6-57EB-4D1B-A1D0-2A1463BFD27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F7BFC6-57EB-4D1B-A1D0-2A1463BFD27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F7BFC6-57EB-4D1B-A1D0-2A1463BFD27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F7BFC6-57EB-4D1B-A1D0-2A1463BFD27A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{984E685B-3061-4023-930F-C3E634298851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984E685B-3061-4023-930F-C3E634298851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984E685B-3061-4023-930F-C3E634298851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984E685B-3061-4023-930F-C3E634298851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75994BCB-9A90-40E4-B591-FEB024546431}
+	EndGlobalSection
+EndGlobal
